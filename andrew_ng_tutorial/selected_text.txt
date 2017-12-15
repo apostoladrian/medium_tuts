@@ -1,0 +1,32 @@
+
+1. Definition: 
+	A computer program is said to learn from experience E with respect to a task T and some performance measure P, if its performance on T as measured by P, improves with experience E (Tom Mitchel - 1998)
+
+2. Machine learning algorithms:
+	a. Supervised learning
+		. when we teach the computer how to do something
+		. we tell the right answers for the input data
+	b. Unsupervised learning: we let it learn by itself
+
+3. Supervized learning
+	a. regression problems - continuous values identifications (selling houses)
+	b. clasification problems
+		- you might need multiple FEATURES/ATTRIBUTES (entry points and information)
+		- tend to have as much features as possible
+
+4. Unsupervised learning
+	a. clustering algorithm
+	
+
+5. Model & Cost function
+	a. Supervised learning
+		. Training set (m = number of training examples, x's = input variable / features, y's = output variable / "target" variable
+		. Training Set -> Learning Algorithm -> h (output function - hypothesis - that takes input and provides estimated output)
+		. Linear regression with one variable (house prices based on the size of the house)
+		. Cost function = minimize the sum of the squares of the differences = squared error function
+
+
+
+
+
+
